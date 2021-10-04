@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>algorithm</title>
-      <link href="/2021/10/04/algorithm/"/>
-      <url>/2021/10/04/algorithm/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>algorithm</title>
+    <url>/2021/10/04/algorithm/</url>
+    <content><![CDATA[<p>给你一个 只包含正整数 的 非空 数组 nums 。请你判断是否可以将这个数组分割成两个子集，使得两个子集的元素和相等。</p>
+<p>示例 1：</p>
+<p>输入：nums = [1,5,11,5]<br>输出：true<br>解释：数组可以分割成 [1, 5, 5] 和 [11] 。</p>
+<p>示例 2：</p>
+<p>输入：nums = [1,2,3,5]<br>输出：false<br>解释：数组不能分割成两个元素和相等的子集。</p>
+]]></content>
+      <categories>
+        <category>算法</category>
+      </categories>
+      <tags>
+        <tag>「0 - 1」 背包问题</tag>
+        <tag>动态规划</tag>
+      </tags>
+  </entry>
 </search>
